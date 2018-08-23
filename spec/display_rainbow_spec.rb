@@ -25,5 +25,5 @@ end
 
 
 def display_rainbow(arr)
-  
+
 end
